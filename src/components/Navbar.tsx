@@ -20,7 +20,7 @@ const Navbar: React.FC = () => {
       <div className="container flex h-16 items-center justify-between">
         <div className="flex items-center gap-2">
           <Target className="h-6 w-6 text-primary" />
-          <span className="text-xl font-bold">Target Match Nexus</span>
+          <span className="text-xl font-bold">SalesMatch</span>
         </div>
         
         {api.isLoggedIn() && (

@@ -25,7 +25,7 @@ const Index: React.FC = () => {
             <div className="flex justify-center">
               <Target className="h-12 w-12 text-primary" />
             </div>
-            <h1 className="mt-4 text-3xl font-bold">Target Match Nexus</h1>
+            <h1 className="mt-4 text-3xl font-bold">SalesMatch</h1>
             <p className="mt-2 text-lg text-muted-foreground">
               Identify and target your best-fit accounts
             </p>
